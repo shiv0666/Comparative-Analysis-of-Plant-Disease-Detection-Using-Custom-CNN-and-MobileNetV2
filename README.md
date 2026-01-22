@@ -89,8 +89,9 @@ The Streamlit app allows users to:
 ### 🔹 Main Interface
 ![App UI](screenshots/app_ui.png)
 
-### 🔹 Prediction Result
-![Prediction Result](screenshots/prediction.png)
+### 🔹 Training & Validation Performance
+![Training Curves](screenshots/training_curves.png)
+
 
 > (Screenshots help recruiters quickly understand the project.)
 
