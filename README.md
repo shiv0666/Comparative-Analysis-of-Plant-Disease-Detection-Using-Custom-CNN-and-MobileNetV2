@@ -1,4 +1,4 @@
-# 🌱 Plant Disease Detection System  
+# 🌱 Plant Disease Detection Model  
 ### Comparative Analysis using Custom CNN and MobileNetV2
 
 An end-to-end deep learning project for **plant leaf disease detection** using **Computer Vision and CNNs**.  
