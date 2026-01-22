@@ -1,7 +1,7 @@
 # 🌱 Plant Disease Detection Model  
 ### Comparative Analysis using Custom CNN and MobileNetV2
 
-An end-to-end deep learning project for **plant leaf disease detection** using **Computer Vision and CNNs**.  
+An end-to-end deep learning project for **plant leaf disease detection** using **CNNs**.  
 The system compares a **Custom CNN (from scratch)** with **MobileNetV2 (Transfer Learning)** and provides predictions through an **interactive Streamlit web application**.
 
 ---
@@ -9,7 +9,7 @@ The system compares a **Custom CNN (from scratch)** with **MobileNetV2 (Transfer
 ## 🚀 Project Highlights
 
 - ✅ Custom CNN built from scratch (baseline model)
-- ✅ Transfer Learning using MobileNetV2 (industry-standard)
+- ✅ Transfer Learning using MobileNetV2 
 - ✅ Multi-class plant disease classification (PlantVillage dataset)
 - ✅ Model comparison (accuracy, confidence, model size)
 - ✅ Deployed as a Streamlit web application
@@ -93,7 +93,6 @@ The Streamlit app allows users to:
 ![Training Curves](screenshots/training_curves.png)
 
 
-> (Screenshots help recruiters quickly understand the project.)
 
 ---
 
